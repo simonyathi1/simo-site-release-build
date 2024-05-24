@@ -1,0 +1,7 @@
+I had like this issue and fixed with below commands
+
+flutter run -d chrome --web-renderer canvaskit
+
+flutter build web --web-renderer canvaskit
+
+you can see below link for better understand
